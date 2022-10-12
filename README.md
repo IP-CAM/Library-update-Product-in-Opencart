@@ -1,3 +1,2 @@
 # opencart_library_add_product
-Модуль для обновления цены/наличия товара в магазин Опенкарт
-На вход подается тестовый товар
+The module for updating a Product to the Openkart store for the entrance is supplied to test goods.
